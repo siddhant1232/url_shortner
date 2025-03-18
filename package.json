@@ -1,0 +1,16 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "practice project",
+  "license": "ISC",
+  "author": "siddhant",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
